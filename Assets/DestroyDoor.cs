@@ -16,7 +16,7 @@ public class DestroyDoor : MonoBehaviour
 
         if(onSockets >= 3)
         {
-            onSocketsFilled.Invoke();
+            //onSocketsFilled.Invoke();
         }
 
 
